@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea
+.xml
+
+Annnotations/
+complex_xml/
+generate_xml/
+JPEGImages/
+number_xml/
+origin_image/
+upleft_xml/
+*.jpg
+*.xml
